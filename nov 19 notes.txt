@@ -1,0 +1,9 @@
+Tasks:
+1: How to access git repo by using SSH method?
+2: How to revert a git merge?
+
+
+
+
+
+github/bitbucket/svn/gitlab/gitserver/azuredevops/coderepo
